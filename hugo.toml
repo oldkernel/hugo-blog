@@ -30,12 +30,12 @@ url = "https://pixelfed.social/i/web/profile/425027688081226442"
 [[params.social]]
 name = "Mastodon"
 icon = "simple:mastodon"
-url = "https://infosec.exchange/@linuzzz"
+url = "https://infosec.exchange/@oldbyte"
 
 [[params.social]]
 name = "Gallery"
 icon = "simple:cloudflare"
-url = "https://gallery.linuzzz.workers.dev/"
+url = "https://gallery.macchia.workers.dev/"
 
 # Main menu Items
 
