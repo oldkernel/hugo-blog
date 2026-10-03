@@ -290,4 +290,10 @@ Codeberg
 
 E soprattutto: **il `pages` di Codeberg è completamente indipendente dal repository principale GitHub**, che continua a contenere il progetto Hugo.
 
+# Ultima cosa
+Ho fatto
+```
+git push --force -u origin pages
+```
+perché il repo codeberg era già stato inizializzato
 
