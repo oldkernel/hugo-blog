@@ -1,0 +1,55 @@
+baseURL = "http://127.0.0.1:1313"
+locale = "en-us"
+title = "Highway to shell"
+theme="archie"
+copyright = "© Macchia"
+# Code Highlight
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+# disqusShortname = "yourDisqusShortname"
+
+[pagination]
+  pagerSize = 6 # articles per page
+
+[params]
+	mode="auto" # color-mode → light,dark,toggle or auto
+	useCDN=true # don't use CDNs for fonts and icons, instead serve them locally.
+	subtitle = "My minimal blog - Rants and Open Source - When AC/DC meets Linux"
+	mathjax = false # enable MathJax support
+	katex = false # enable KaTeX support
+
+# Social Tags
+
+[[params.social]]
+name = "Pixelfed"
+icon = "simple:pixelfed"
+url = "https://pixelfed.social/i/web/profile/425027688081226442"
+
+[[params.social]]
+name = "Mastodon"
+icon = "simple:mastodon"
+url = "https://infosec.exchange/@linuzzz"
+
+[[params.social]]
+name = "Gallery"
+icon = "simple:cloudflare"
+url = "https://gallery.linuzzz.workers.dev/"
+
+# Main menu Items
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
