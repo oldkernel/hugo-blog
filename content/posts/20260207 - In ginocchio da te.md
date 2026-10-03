@@ -8,7 +8,7 @@ description: "Ho visto da poco e per la prima volta \"In ginocchio da te\", film
 tags:
 - cinema
 - corruzione
-- sicietà
+- società
 - italia
 ---
 Ho visto da poco e per la prima volta “In ginocchio da te”, film del 1964 con Gianni Morandi.
