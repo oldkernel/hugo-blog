@@ -4,7 +4,7 @@ source: "https://log.livellosegreto.it/highway-to-shell/figli-di-un-dio-motore"
 author:
   - "[[highway-to-shell]]"
 date: 2024-06-04
-description: "Non si è trattato di un incidente, di una fatalità, di una terribile disgrazia. La morte della bambina di 2 anni a Brescia è la diretta c..."
+description:
 tags:
 - automobili
 ---

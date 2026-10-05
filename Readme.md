@@ -297,3 +297,9 @@ git push --force -u origin pages
 ```
 perché il repo codeberg era già stato inizializzato
 
+
+# Come aggiungere analytics (da umami in questo caso)
+The best place is the existing customJS hook: header.html loops over site.Params.customJS and emits those scripts before </head> on every page.
+
+Add the analytics script under the existing [params] section in hugo.toml. To avoid a parser-blocking script, include the provider’s recommended async or defer attribute as an inline script tag:
+customJS = ['<script async src="https://analytics.example/script.js"></script>']

@@ -4,7 +4,7 @@ source: "https://log.livellosegreto.it/highway-to-shell/in-ginocchio-da-te"
 author:
   - "[[highway-to-shell]]"
 date: 2026-02-07
-description: "Ho visto da poco e per la prima volta \"In ginocchio da te\", film del 1964 con Gianni Morandi.  Il padre della protagonista è un marescial..."
+description:
 tags:
 - cinema
 - corruzione

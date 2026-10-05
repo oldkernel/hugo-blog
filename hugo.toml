@@ -11,7 +11,7 @@ pygmentscodefencesguesssyntax = true
 # disqusShortname = "yourDisqusShortname"
 
 [pagination]
-  pagerSize = 6 # articles per page
+  pagerSize = 8 # articles per page
 
 [params]
 	mode="auto" # color-mode → light,dark,toggle or auto
@@ -19,6 +19,7 @@ pygmentscodefencesguesssyntax = true
 	subtitle = "My minimal blog - Rants and Open Source - When AC/DC meets Linux"
 	mathjax = false # enable MathJax support
 	katex = false # enable KaTeX support
+	customJS = ['<script async src="https://cloud.umami.is/script.js" data-website-id="e0955093-6ac2-494c-b61f-145dedc37dff"></script>']
 
 # Social Tags
 

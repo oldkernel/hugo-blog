@@ -4,7 +4,7 @@ source: "https://log.livellosegreto.it/highway-to-shell/barolo-riserva-speciale"
 author:
   - "[[highway-to-shell]]"
 date: 2024-07-10
-description: "Ma chi l'avrebbe mai detto? Il capolarato a quanto pare non riguarda solo quei campi dove i prezzi della vendita al dettaglio costringono..."
+description:
 tags:
 - capitalismo
 - lavoro

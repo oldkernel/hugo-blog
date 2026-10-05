@@ -4,7 +4,7 @@ source: "https://log.livellosegreto.it/highway-to-shell/santa-pazienza"
 author:
   - "[[highway-to-shell]]"
 date: 2024-04-14
-description: "Al pronto soccorso oftalmico ci sono sicuramente medici molto competenti. Hanno però un problema di pazienza, problema di cui mi preoccup..."
+description:
 tags:
 - salute
 - società

@@ -4,7 +4,7 @@ source: "https://log.livellosegreto.it/highway-to-shell/facciamoci-un-selfie"
 author:
   - "[[highway-to-shell]]"
 date: 2024-04-12
-description: "Hai voglia a spiegare ai tuoi figli che non tutti i momenti della propria vita vanno immortalati con la fotocamera, che TikTok, BeReal e ..."
+description:
 tags:
 - stellantis
 - politica

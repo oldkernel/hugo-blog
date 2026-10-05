@@ -4,7 +4,7 @@ source: "https://log.livellosegreto.it/highway-to-shell/il-salone-del-libro-di-t
 author:
   - "[[highway-to-shell]]"
 date: 2024-04-22
-description: "Si avvicina la data del Salone del Libro di Torino e come ogni anno torno a chiedermi perché dovrei spendere circa 35€ (1 adulto + 2 raga..."
+description:
 tags:
 - società
 - torino

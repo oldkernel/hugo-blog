@@ -1,7 +1,7 @@
 ---
 title: "Non sei come sei"
 date: 2023-10-27
-description: "Premessa: il libro \"Sei come sei\" di Melania Mazzucco non l'ho letto e non ho intenzione di leggerlo..."
+description:
 tags:
   - scuola
 ---

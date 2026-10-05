@@ -4,7 +4,7 @@ source: "https://log.livellosegreto.it/highway-to-shell/come-nei-film-americani"
 author:
   - "[[highway-to-shell]]"
 date: 2024-05-16
-description: "Avete presente quei vecchi film americani dove c'è una fattoria piazzata nel bel mezzo del nulla ma proprio da lì deve passare la ferrovi..."
+description:
 tags:
 - resistenza
 ---

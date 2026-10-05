@@ -1,7 +1,7 @@
 ---
 title: "YouTube Premium"
 date: 2023-11-01
-description: "Che tipo di contenuti ci sono su YouTube?"
+description:
 tags:
 - social
 ---

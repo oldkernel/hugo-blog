@@ -4,7 +4,7 @@ source: "https://log.livellosegreto.it/highway-to-shell/il-valore-della-vita-di-
 author:
   - "[[highway-to-shell]]"
 date: 2024-07-11
-description: "Il governo ha fatto finalmente chiarezza, adesso abbiamo un indice in grado di esprimere il valore della vita di un lavoratore:    In cas..."
+description:
 tags:
 - lavoro
 - capitalismo

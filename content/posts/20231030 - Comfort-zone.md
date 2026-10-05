@@ -1,7 +1,7 @@
 ---
 title: "Comfort-zone"
 date: 2023-10-23
-description: "Gli psicologi al servizio del capitalismo..."
+description:
 tags:
   - società
   - lavoro

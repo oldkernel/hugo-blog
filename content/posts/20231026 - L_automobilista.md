@@ -2,7 +2,7 @@
 date: 2023-10-26
 draft: false
 title: "L'automobilista"
-description: "L'automobilista chiede il rispetto delle regole..."
+description:
 tldr: "Ci sono troppe auto"
 tags: ['automobili']
 ---

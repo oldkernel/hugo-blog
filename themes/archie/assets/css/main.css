@@ -160,15 +160,15 @@ a:focus {
 
 /* Lists */
 ul {
-  list-style: none;
+  /* list-style: none; */
   /* Fallback for older browsers */
   padding-left: 2ch;
   /* Modern logical properties */
-  padding-inline-start: 2ch;
+   padding-inline-start: 2ch;
 }
 
 ul li {
-  text-indent: -2ch;
+  /* text-indent: -2ch; */
 }
 
 ul > li::before {

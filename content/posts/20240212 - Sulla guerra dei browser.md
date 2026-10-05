@@ -4,7 +4,7 @@ source: "https://log.livellosegreto.it/highway-to-shell/sulla-guerra-dei-browser
 author:
   - "[[highway-to-shell]]"
 date: 2024-02-12
-description: "Vedo tanti sedicenti avvocati della privacy propagandare Brave come alternativa a Firefox..."
+description:
 tags:
 - informatica
 ---

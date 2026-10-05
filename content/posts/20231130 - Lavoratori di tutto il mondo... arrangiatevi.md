@@ -4,7 +4,7 @@ source: "https://log.livellosegreto.it/highway-to-shell/lavoratori-di-tutto-il-m
 author:
   - "[[highway-to-shell]]"
 date: 2023-11-30
-description: "Tutti i santi giorni leggo notizie di aziende che stanno per chiudere..."
+description:
 tags:
 - capitalismo
 - lavoro

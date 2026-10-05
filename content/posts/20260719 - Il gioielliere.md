@@ -1,7 +1,7 @@
 ---
 title: "Il gioielliere"
 date: 2026-07-19
-description: "gioiellieri di tutto il mondo..."
+description:
 tags:
 - società
 - politica

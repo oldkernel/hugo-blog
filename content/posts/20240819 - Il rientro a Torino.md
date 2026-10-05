@@ -4,7 +4,7 @@ source: "https://log.livellosegreto.it/highway-to-shell/il-rientro-a-torino"
 author:
   - "[[highway-to-shell]]"
 date: 2024-08-19
-description: "Il trauma da rientro dalle vacanze lo vivono tutti ma quelli che tornano a Torino dopo essere stati in Svizzera e Germania lo vivono un p..."
+description:
 tags:
 - automobili
 - torino
