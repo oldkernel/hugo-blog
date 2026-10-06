@@ -181,10 +181,10 @@ ul > li::before {
 img {
   border: 3px solid var(--color-background-pre, #ececec);
   /* Fallback for older browsers */
-  max-width: 100%;
+  max-width: 40%;
   height: auto;
   /* Modern logical properties */
-  max-inline-size: 100%;
+  max-inline-size: 40%;
   block-size: auto;
   border-radius: var(--border-radius, 5px);
 }
