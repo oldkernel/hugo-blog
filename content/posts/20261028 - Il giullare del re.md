@@ -3,7 +3,7 @@ title: "Il giullare del re"
 pubDate: 2026-10-28
 description:
 tags:
-- societa
+- società
 - media
 - tv
 ---
